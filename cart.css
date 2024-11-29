@@ -35,3 +35,8 @@
   width: 10%;
   border: none;
 }
+@media  (max-width:600px){
+  .continue-shopping {
+    margin-left: 28%;
+  } 
+}
